@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     EditText num1,num2;
     TextView newText;
     Button times,subtract,add,divide;
+    String something;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
